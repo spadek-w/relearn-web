@@ -35,3 +35,5 @@ console.log(str2);
     数值
     增加BigInt 基本类型
  */
+
+ 
