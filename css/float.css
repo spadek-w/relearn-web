@@ -1,0 +1,16 @@
+.box{
+    height: 500px;
+}
+.left {
+    float: left;
+    height: 500px;
+}
+
+.cont{
+    height: 100%;
+    width: 100%;
+}
+.right {
+    float: right;
+    height:500px;
+}

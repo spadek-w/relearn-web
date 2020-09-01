@@ -61,7 +61,7 @@
 push unshift 是返回的长度
 pop shift 是返回的删除项
 
-> 基本类型保存在`栈` 引用类型报错在`堆`
+> 基本类型保存在`栈` 引用类型保存在`堆`
 
 #### 队列 Event Loop
 
@@ -78,7 +78,7 @@ pop shift 是返回的删除项
 
 + self （浏览器和Web Worker）
 
-> 有扯到this
+> 又扯到this
 
 全局中， `this`返回顶层对象 . 但是Node中 `this` 返回的是当前模块， ES6中 `this`是undefined . 
 
