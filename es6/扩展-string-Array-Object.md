@@ -9,9 +9,9 @@
 + startsWith()
 + endWith()
 
-+ repeat
++ repeat //返回新字符串,表示将原字符串重复n次
     + replace(替换)有点像
-+ padStart()
++ padStart() //补全
 + padEnd()
 + trimStart() or trimLeft()
 + tirmEnd() or trimRight()
